@@ -1,0 +1,104 @@
+.first_nav a{
+    text-decoration: none;
+    color: #592600;
+    font-style: italic;
+    /* font-weight: bold; */
+    font-size: 17px;
+    padding-left: 20px;
+}
+
+.navButton{
+    background-color: #ffffff !important;
+    color: #592600 !important;
+    text-transform: uppercase;
+     
+}
+
+
+.herotext{
+   
+    color: #592600;
+}
+
+
+.navbar{
+    background-color: #592600;
+}
+
+.nav-link{
+    color: #ffff !important;
+    text-transform: uppercase;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    color: #ffffff !important;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px !important;
+}
+
+
+.red{
+    color: rgb(249, 72, 7);
+}
+
+
+.herotext h1{
+    margin-top: 100px;
+    margin-left: 150px;
+    color: #592600;
+}
+
+
+.herotext p{
+    /* margin-top: 100px; */
+    margin-left: 150px;
+    color: #592600;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+
+.herotext button{
+   
+    margin-left: 150px;
+    color: #fff;
+    background-color: #592600 !important;
+    width: 170px;
+    font-weight: 900;
+}
+
+.herotext button:hover{
+   
+    
+    color: #fff !important;
+    text-decoration: underline;
+    
+}
+
+.cols{
+    color: #592600 !important;
+}
+
+
+.buts{
+    /* margin-left: 150px; */
+    color: #fff !important;
+    background-color: #592600 !important;
+    width: 100px;
+    font-weight: 900;
+}
+
+
+.grey{
+    background-color: #e5e5e5;
+    color: #592600;
+}
+
+
+.grey h1{
+    padding-top: 50px;
+}
+
+

@@ -1,0 +1,88 @@
+/* .container{
+    background-color: #ccc;
+    
+}
+
+[class*='col']{
+    background-color: lightblue;
+    border: 1px solid #777;
+} */
+
+/* .card{
+    margin-left: 80px !important;
+} */
+
+marquee img{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+
+.navbar{
+    background-color: #592600;
+    
+}
+
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+.navbar-brand img{
+    width: 90px !important;
+    height: 35px;
+}
+
+
+.navbar-toggler-icon{
+    background-color: #ffffff !important;
+}
+
+footer{
+    background-color: #592600;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 50px 70px;
+}
+
+.face{
+    margin-left: 30px;
+}
+
+header{
+    background-color: grey;
+    color: #ffffff;
+    min-height: 70px;
+}
+.red{
+    color: #592600;
+}
+
+#logo h1{
+    padding-left: 20px;
+    font-style: italic;
+    float: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+nav ul li{
+    float: left;
+    display: inline;
+    padding: 20px;
+}
+
+
+nav{
+    float: right;
+}
+
+nav ul a{
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+}
